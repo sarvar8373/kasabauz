@@ -1,0 +1,12 @@
+.softpro_uz_language{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.softpro_uz_language p{
+    padding: 7px 1rem;
+    font-size: 13px;
+}
+.softpro_uz_language p:hover{
+    color: #FF4820;
+}

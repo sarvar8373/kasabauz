@@ -1,0 +1,10 @@
+.blog-card{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #111;
+}
+.blog-card h5{
+    padding: 5px;
+    font-size: 20px;
+}
